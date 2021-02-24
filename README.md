@@ -52,3 +52,6 @@ At first the user has to select the items that he/she wants to buy and they have
    4. Categories section is created where homogeneous products will be displayed.
    5. User can add or delete the products to the cart using product ID.
    6. After selecting the products there are two payment option either by cash or by card.
+
+# Low-level-diagram: - 
+![Class diagram](DOCUMENT/class.PNG)
