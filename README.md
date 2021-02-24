@@ -1,6 +1,10 @@
 # DemoKart
 
 
+# Introduction
+
+The product/application will help users to search and buy products of there choicess sitting on one place with the help of internet running devices. There is cart inside the application where one can add there selected itmes and after that there are option of different types of payment methods for the user. 
+
 # Swot Analysis: -
   # (i). Strengths   --
       1. It will be really helpful as home delivery of vast variety of products will be done by just fews clicks on the device screen.
