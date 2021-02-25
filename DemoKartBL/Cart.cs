@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,11 +8,12 @@ namespace DemoKartBL
 {
     public class Cart
     {
-        //Delete this method before submission
-        //Method was created to generate test project
-        public void SampleMethod()
-        {
+        public int cartId;
 
+
+        public int AddToCart(int Quantity)
+        {
+            return 1;
         }
     }
 }
